@@ -1,0 +1,17 @@
+catataan :
+tanggal penggambilan data : 2-04-2019
+
+tag : [c#] 
+total : 1,302,830 questions
+
+tag : [c#] [unity3d]
+total : 22.974
+
+diurutkan menurut vote terbesar
+QA yang dipilih terdapat answere code yang lebih dari 10 line 
+QA yang dipilih harus lebih dari 3 vote, total QA : 863
+dilakukan secara manual
+
+hasil :
+jumlah QA : 207
+
